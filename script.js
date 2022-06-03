@@ -8,11 +8,11 @@ function tabuada() {
         let n = Number(num.value)
         let c = 1
         tab.innerHTML = '' //Para limpar e mostrar tabuada nova.
-        while (c <= 10) {
-            let item = document.createElement('option')
-            item.text = `${n} x ${c} = ${n*c}`
-            tab.appendChild(item)
-            c++
+    while (c <= 10) {
+        let item = document.createElement('option')
+        item.text = `${n} x ${c} = ${n*c}`
+        tab.appendChild(item)
+        c++
         }
     }
 }

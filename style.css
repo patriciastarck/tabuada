@@ -1,12 +1,9 @@
 body {
     background-image: url(blacknumber.png);
-    font: normal 15pt arial;   
-    margin: auto
-    
+    font: normal 15pt arial;       
 }
 
 header {   
-    background-color:;
     letter-spacing: 2px;
     width: 280px;
     border-radius: 20px;
@@ -35,12 +32,9 @@ footer {
     font-style: italic;
     margin: auto;
     letter-spacing: 1.5px;
-    opacity: ;
-   
 }
      
-/*Coloquei a hora ao lado esquerdo da imagem. Coloquei margem auto em #msg */
-img {
-    margin: 30px;
-}
+
+ 
+
 
